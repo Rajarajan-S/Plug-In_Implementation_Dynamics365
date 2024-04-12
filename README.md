@@ -4,4 +4,3 @@ Registered the plugin 'create' step as Post_operation & Asynchronous
 
 Video for reference:
 https://github.com/Rajarajan-S/Plug-In_Implementation_Dynamics365/assets/88157709/70dc8536-66fc-4338-8265-d39acf77d7f5
-
