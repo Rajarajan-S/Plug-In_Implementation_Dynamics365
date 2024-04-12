@@ -28,7 +28,7 @@ namespace TrialPlugin
 
             try
             {
-                //Entity object initialization
+                //Entity object initialization - incident
                 Entity incident = null;
                 if (context.MessageName == "Create")
                 {
