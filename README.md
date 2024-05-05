@@ -1,4 +1,4 @@
-This Plug-in implementation helps in creating a new record in 'Product Defects' entity based on a field value(boolean) from the case entity.
+This Plug-in implementation helps in creating a new record in 'Product Defects' - a custom entity based on a field value(boolean) from the case entity.
 Value of some fields of the newly created record in Product Defects has been set using javascript webresources.
 Registered the plugin 'create' step as Post_operation & Asynchronous 
 
